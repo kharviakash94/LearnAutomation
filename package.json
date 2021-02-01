@@ -1,0 +1,14 @@
+{
+  "name": "learnautomation",
+  "version": "1.0.0",
+  "description": "to learn automation",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Akash",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.5.1"
+  }
+}
